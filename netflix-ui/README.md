@@ -17,7 +17,7 @@ patterns recommended by the documentation. Some of the tools used include: <br /
 
 The future of this project: <br />
 
-* Integrate it with a Django backend
+* Integrate it with a nodeJs backend
 * Create an authentication flow
 * Add REST API endpoints for every user-related event, such as adding Netflix profiles
 
