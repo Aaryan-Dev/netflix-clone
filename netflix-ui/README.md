@@ -14,8 +14,6 @@ patterns recommended by the documentation. Some of the tools used include: <br /
 
 <br />
 
-It is a work in progress, and my first real project with React. Any tips on how to better write the 
-code, manage the folder structure, etc would be really appreciated. <br />
 
 The future of this project: <br />
 
